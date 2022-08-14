@@ -1,8 +1,6 @@
 # Google-OAuth
 
-## Dependencies ->
-
-  '''bash
+## Dependencies
     
     "body-parser": "^1.20.0",
     "dotenv": "^16.0.1",
@@ -15,4 +13,8 @@
     "passport": "^0.6.0",
     "passport-google-oauth20": "^2.0.0"
     
-    '''
+ 
+ # License
+    
+    MIT
+
